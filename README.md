@@ -1,3 +1,4 @@
 # FirstRailsProject
 First Rails Turmy
-read me  dont g
+don't forget to do "read me" step
+rails; picture; turmy
